@@ -1,0 +1,24 @@
+# Go build outputs
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+
+# Test and coverage outputs
+coverage.out
+coverage.html
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+
+# Local application data
+*.db
+*.sqlite
+*.sqlite3
+*.log
