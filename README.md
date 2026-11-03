@@ -92,6 +92,7 @@ go test ./...
 ├── go.mod
 ├── docs/                 # 按章节编排的中文教材
 ├── examples/             # 每章配套的可运行代码
+├── solutions/            # 各章练习参考答案
 └── projects/             # 从小到大的实战项目说明
 ~~~
 
@@ -103,7 +104,7 @@ go test ./...
 - 第 4 周：并发、测试，并完成至少两个项目。
 - 后续：把项目拆分成多个 package，补充测试、日志、配置和文档。
 
-进度请记录在 [PROGRESS.md](PROGRESS.md)。
+进度请记录在 [PROGRESS.md](PROGRESS.md)。每章练习的参考答案集中在 [solutions/](solutions/README.md)，建议先做题，再打开答案对照。
 
 ## 官方资料
 
